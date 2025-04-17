@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/equipment-registration.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.service-scheduling]
+path = 'contracts/service-scheduling.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

@@ -5,3 +5,5 @@ R
 "contracts/compliance-tracking.clar,7/0/70790eb9cd8d841db3f5bf88b619037b97e0065f
 Q
 !tests/compliance-tracking.test.ts,9/4/94cfcb2e3d45144f7d4b279e6473312d7456d10f
+U
+%contracts/equipment-registration.clar,0/0/00b513eda51a0d2d30272217fe81c0794fe41ca1
